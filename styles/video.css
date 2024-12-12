@@ -1,3 +1,7 @@
+.video-preview {
+  cursor: pointer;
+}
+
 .thumbnail {
   width: 100%;
 }
